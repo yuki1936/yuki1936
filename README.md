@@ -3,11 +3,8 @@
 A minimalist developer passionate about performance, simplicity, and keyboard-driven workflows.  
 The name "neri" comes from a visual novel character I really like.
 
-![OS](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-![WM](https://img.shields.io/badge/WM-Sway%20(ex--i3wm)-88B0D3?style=flat&logo=wayland&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-Fish-4C1?style=flat&logo=fish&logoColor=white)
-![Editor](https://img.shields.io/badge/Editor-Neovim%20%2F%20Helix-57A143?style=flat&logo=neovim&logoColor=white)
-![Languages](https://img.shields.io/badge/Languages-Rust%20%7C%20Python%20%7C%20C%20%7C%20Java-orange?style=flat&logo=rust&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) ![WM Current](https://img.shields.io/badge/WM-Sway-brightgreen?style=flat&logo=wayland&logoColor=white) ![WM Former](https://img.shields.io/badge/Former-i3wm-lightgrey?style=flat&logo=i3&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-Fish-4C1?style=flat&logo=fish&logoColor=white) ![Editor](https://img.shields.io/badge/Editor-Neovim%20%2F%20Helix-57A143?style=flat&logo=neovim&logoColor=white) ![Languages Current](https://img.shields.io/badge/Languages-Rust%20%26%20Python-brightgreen?style=flat&logo=rust&logoColor=white) ![Languages Former](https://img.shields.io/badge/Former-C%20%26%20Java-lightgrey?style=flat)
+
 
 ---
 
