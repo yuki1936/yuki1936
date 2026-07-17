@@ -24,8 +24,6 @@ I build tools and environments that stay out of the way and make workflows seaml
 
 I enjoy creating simple, efficient tools and exploring the boundary between system programming and modern applications.
 
-I don’t have many public projects here yet — just quietly crafting.
-
 *Or maybe I'm making really fast, minimal... trash.* 😄
 
 ---
